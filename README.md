@@ -1,13 +1,15 @@
 firefox-addons
+
 TEMP AS OF 01/2026
 https://github.com/dimdenGD/OldTwitter
 about:debugging#/runtime/this-firefox
 
 [PRIVACY]
-brosec vpn (smart settings for sites that don't like systemwide vpn)
-https://addons.mozilla.org/en-US/firefox/addon/browsec/
 privateinternetaccess vpn @2.03/mo
 https://www.privateinternetaccess.com/
+
+brosec vpn (smart settings for sites that don't like systemwide vpn)
+https://addons.mozilla.org/en-US/firefox/addon/browsec/
 
 canvas blocker
 https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
@@ -37,7 +39,8 @@ port authority
 https://addons.mozilla.org/en-US/firefox/addon/port-authority/
 
 
-[system resources]
+[SYSTEM RESOURCES]
+
 auto tab discard
 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/
 
@@ -45,7 +48,8 @@ cookieautodelete
 https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
 
 
-[site augmentation/redirect]
+[SITE AUGMENTATION/REDIRECT]
+
 tampermonkey →greasyfork.org
 https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 https://greasyfork.org/en/scripts/473310-duolingo-pro
@@ -95,8 +99,18 @@ https://addons.mozilla.org/en-US/firefox/addon/letterboxd-extras/
 unlock
 https://addons.mozilla.org/en-US/firefox/addon/unlock/
 
+snapchat web
+https://addons.mozilla.org/en-US/firefox/addon/snapchat-web/
 
-[cosmetic]
+steamdb
+https://addons.mozilla.org/en-US/firefox/addon/steam-database/
+
+open in spotify desktop client
+https://addons.mozilla.org/en-US/firefox/addon/open-in-spotify-desktop/
+
+
+[COSMETIC]
+
 stylus
 https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 https://uso.kkx.one/style/264964
@@ -105,7 +119,8 @@ dark reader
 https://addons.mozilla.org/en-US/firefox/addon/darkreader/
 
 
-[browser augmentations/new functionalities]
+[BROWSER AUGMENTATIONS/NEW FUNCTIONALITIES]
+
 group speed dial
 https://addons.mozilla.org/en-US/firefox/addon/groupspeeddial/
 
@@ -143,7 +158,8 @@ song id
 https://addons.mozilla.org/en-US/firefox/addon/song-identifier/
 
 
-[reading/language]
+[READING/LANGUAGE]
+
 ai grammer checker & paraphraser  - languagetool
 https://addons.mozilla.org/en-US/firefox/addon/languagetool/
 
@@ -169,7 +185,8 @@ Gocomics Depaywall
 https://addons.mozilla.org/en-US/firefox/addon/gocomics-depaywall/
 
 
-[bookmarks/passwords]
+[BOOKMARKS/PASSWORDS]
+
 icloud bookmarks
 https://addons.mozilla.org/en-US/firefox/addon/icloud-bookmarks/
 
@@ -182,16 +199,6 @@ https://addons.mozilla.org/en-US/firefox/addon/onetab/
 icloud passwords
 https://addons.mozilla.org/en-US/firefox/addon/icloud-passwords/
 
-
-[site functionality]
-snapchat web
-https://addons.mozilla.org/en-US/firefox/addon/snapchat-web/
-
-steamdb
-https://addons.mozilla.org/en-US/firefox/addon/steam-database/
-
-open in spotify desktop client
-https://addons.mozilla.org/en-US/firefox/addon/open-in-spotify-desktop/
 
 [MTG RELATED]
 https://addons.mozilla.org/en-US/firefox/addon/redditnotify-advanced/
