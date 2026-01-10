@@ -29,7 +29,7 @@ https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/
 noscript
 https://addons.mozilla.org/en-US/firefox/addon/noscript/
 
-privavy badger
+privacy badger
 https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
 
 ublock origin
