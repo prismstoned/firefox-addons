@@ -1,5 +1,5 @@
 firefox-addons
-![https://github.com/prismstoned/firefox-addons/blob/main/nav%20bar.jpg]
+<https://github.com/prismstoned/firefox-addons/blob/main/nav%20bar.jpg>
 
 TEMP AS OF 01/2026
 https://github.com/dimdenGD/OldTwitter
