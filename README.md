@@ -1,5 +1,5 @@
 firefox-addons
-![https://github.com/user-attachments/assets/c9f400e3-582c-445b-be8b-986b20e3b8db]
+<https://github.com/user-attachments/assets/c9f400e3-582c-445b-be8b-986b20e3b8db>
 
 TEMP AS OF 01/2026
 https://github.com/dimdenGD/OldTwitter
