@@ -60,9 +60,6 @@ https://greasyfork.org/en/scripts/557825-open-in-anna-s-archive-goodreads
 improve youtube
 https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/
 
-adblock
-https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
-
 alternate player for twitch.tv (html5)
 https://addons.mozilla.org/en-US/firefox/addon/twitch_5/
 
