@@ -1,4 +1,4 @@
-firefox-addons
+firefox-addons ram@1.6GB macos
 
 TEMP AS OF 01/2026
 https://github.com/dimdenGD/OldTwitter
