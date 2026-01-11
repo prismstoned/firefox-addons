@@ -1,4 +1,5 @@
 firefox-addons ram @1.6GB on macos
+!=addon requires nursing
 
 TEMP AS OF 01/2026
 https://github.com/dimdenGD/OldTwitter
@@ -20,13 +21,13 @@ https://addons.mozilla.org/en-US/firefox/addon/clearurls/
 decentraleyes
 https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
 
-disconnect
+!(twitter needs to b enabled)disconnect
 https://addons.mozilla.org/en-US/firefox/addon/disconnect/
 
 don’t track me google
 https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/
 
-noscript
+!noscript
 https://addons.mozilla.org/en-US/firefox/addon/noscript/
 
 privacy badger
@@ -44,7 +45,7 @@ https://addons.mozilla.org/en-US/firefox/addon/port-authority/
 auto tab discard
 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/
 
-cookieautodelete
+!(whitelist tolerable cookies)cookieautodelete
 https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
 
 
@@ -55,9 +56,9 @@ https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 https://greasyfork.org/en/scripts/473310-duolingo-pro
 https://greasyfork.org/en/scripts/500460-redirect-youtube-channel-to-videos
 https://greasyfork.org/en/scripts/557825-open-in-anna-s-archive-goodreads
-(change line 351 to .li instead of .org)
+!(change line 351 to .li instead of .org)
 
-improve youtube
+!improve youtube
 https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/
 
 alternate player for twitch.tv (html5)
@@ -118,7 +119,7 @@ https://addons.mozilla.org/en-US/firefox/addon/darkreader/
 
 [BROWSER AUGMENTATIONS/NEW FUNCTIONALITIES]
 
-group speed dial
+!(make a login)group speed dial
 https://addons.mozilla.org/en-US/firefox/addon/groupspeeddial/
 
 copy plaintext
@@ -160,7 +161,7 @@ https://addons.mozilla.org/en-US/firefox/addon/song-identifier/
 ai grammer checker & paraphraser  - languagetool
 https://addons.mozilla.org/en-US/firefox/addon/languagetool/
 
-read aloud
+!(voice = GoogleTranslate English)read aloud
 https://addons.mozilla.org/en-US/firefox/addon/read-aloud/
 
 dotEPUB
