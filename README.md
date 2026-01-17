@@ -1,6 +1,6 @@
 firefox-addons
 
-mem @1.6GB on macos
+mem @~1.6GB on macos
 
 !=addon requires nursing
 
