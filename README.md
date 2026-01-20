@@ -40,6 +40,10 @@ https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/
 
 https://addons.mozilla.org/en-US/firefox/addon/noscript/
 
+jshelter
+
+https://addons.mozilla.org/en-US/firefox/addon/javascript-restrictor/
+
 privacy badger
 
 https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
