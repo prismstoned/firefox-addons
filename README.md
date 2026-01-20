@@ -20,10 +20,6 @@ brosec vpn (smart settings for sites that don't like systemwide vpn)
 
 https://addons.mozilla.org/en-US/firefox/addon/browsec/
 
-canvas blocker
-
-https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-
 clearURLs
 
 https://addons.mozilla.org/en-US/firefox/addon/clearurls/
