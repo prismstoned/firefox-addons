@@ -96,6 +96,10 @@ downloader for instagram
 
 https://addons.mozilla.org/en-US/firefox/addon/downloader-instagram/
 
+Twitter media assist (video download button)
+
+https://addons.mozilla.org/en-US/firefox/addon/twitter-media-assist-ff/
+
 FHD Bilibili Video Downloader
 
 (?)
